@@ -69,7 +69,7 @@
     </where>
   </sql>
   <sql id="Base_Column_List" >
-    id, item_cat_id, created, updated
+    id, item_cat_id,param_data, created, updated
   </sql>
   <sql id="Blob_Column_List" >
     param_data
